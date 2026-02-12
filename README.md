@@ -49,21 +49,6 @@ I was responsible for:
 
 ---
 
-## Tech Stack
-
-- HTML5  
-- Tailwind CSS  
-- Vanilla JavaScript  
-- LocalStorage  
-
----
-
-## Notes
-
-This repository contains the front-end implementation developed as part of a team project. Backend services were implemented separately.
-
----
-
 ## Design Philosophy
 
 E-Space is built around three principles:
