@@ -1,47 +1,118 @@
-# E-Space: Campus Event Discovery & Engagement Platform
+# E-Space: Campus Digital Engagement Platform
 
-A front-end web application designed to improve campus event visibility and student engagement.
+A team-developed web application designed to centralize campus events and encourage meaningful student engagement.
+
+---
 
 ## Overview
 
-E-Space centralizes campus events into a single platform and introduces an engagement-driven interaction model. 
+Campus events are often distributed across multiple platforms, making discovery inefficient and participation inconsistent. Despite the abundance of opportunities, students may still feel disconnected due to fragmented information and high participation friction.
 
-This project focuses on user experience design, validation logic, and client-side interaction.
+E-Space addresses this gap by creating a unified digital space where students can:
 
-## Key Features
+- Discover campus events easily
+- Create and manage events
+- Engage through a lightweight participation metric (“E-Score”)
 
-### 1. Secure Login Interface
-- WashU email validation (@wustl.edu)
-- Activation code logic with countdown timer
-- Dynamic button states and form validation
-- Loading states and redirect flow
+The platform focuses on reducing friction and reinforcing presence rather than competition.
 
-### 2. Event Creation System
-- Event name, time, location, and capacity validation
-- Tag system with dynamic rendering
-- Image upload with preview and file-size validation
-- Draft saving via localStorage
-- Publish flow with success modal and redirect countdown
+---
+
+## Team Project Context
+
+E-Space was developed as a collaborative team project.
+
+Each team member contributed to product ideation, feature planning, and system design.  
+This repository highlights the front-end implementation and engagement logic components that I personally developed.
+
+---
+
+# E-Space: Campus Digital Engagement Platform
+
+A team-developed web application designed to centralize campus events and encourage meaningful student engagement.
+
+---
+
+## Overview
+
+E-Space addresses the fragmentation of campus event information by providing a unified digital platform for event discovery and participation.
+
+The platform reduces participation friction and introduces a lightweight engagement metric (“E-Score”) to reinforce presence and involvement without competitive pressure.
+
+---
+
+## Team Context
+
+This project was developed collaboratively as a team initiative.
+
+This repository highlights the front-end architecture and engagement logic components that I personally implemented.
+
+---
+
+## My Contribution
+
+I was responsible for:
+
+- Front-end architecture and UI implementation  
+- Login validation and interactive form logic  
+- Event creation workflow and client-side validation  
+- E-Score engagement interaction design  
+- Responsive layout using Tailwind CSS  
+
+---
+
+## Core Features
+
+- Centralized event discovery  
+- Secure campus login interface  
+- Structured event creation system  
+- Engagement-based E-Score mechanism  
+
+---
 
 ## Tech Stack
 
-- HTML5
-- Tailwind CSS
-- Vanilla JavaScript
+- HTML5  
+- Tailwind CSS  
+- Vanilla JavaScript  
+- LocalStorage  
+
+---
+
+## Notes
+
+This repository contains the front-end implementation developed as part of a team project. Backend services were implemented separately.
+
+---
+
+## Design Philosophy
+
+E-Space is built around three principles:
+
+- **Accessibility** – Lower the barrier to participation  
+- **Clarity** – Reduce fragmentation in event information  
+- **Positive Reinforcement** – Encourage presence rather than competition  
+
+Technology should function as a bridge for connection, not an additional source of pressure.
+
+---
+
+## Tech Stack
+
+- HTML5  
+- Tailwind CSS  
+- Vanilla JavaScript  
 - LocalStorage (client-side persistence)
 
-## My Role
-
-- Designed and implemented complete front-end architecture
-- Built form validation logic and interactive UI components
-- Developed engagement interaction flow
-- Implemented client-side state management
+---
 
 ## Project Structure
 
 - `/frontend` – Core application pages
 - `/docs` – Screenshots and documentation
 
+---
+
 ## Notes
 
-This project demonstrates digital platform design and user experience engineering rather than backend infrastructure.
+This repository contains the front-end implementation developed as part of a team project. Backend services and additional modules were implemented separately by other team members.
