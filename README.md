@@ -27,27 +27,6 @@ This repository highlights the front-end implementation and engagement logic com
 
 ---
 
-# E-Space: Campus Digital Engagement Platform
-
-A team-developed web application designed to centralize campus events and encourage meaningful student engagement.
-
----
-
-## Overview
-
-E-Space addresses the fragmentation of campus event information by providing a unified digital platform for event discovery and participation.
-
-The platform reduces participation friction and introduces a lightweight engagement metric (“E-Score”) to reinforce presence and involvement without competitive pressure.
-
----
-
-## Team Context
-
-This project was developed collaboratively as a team initiative.
-
-This repository highlights the front-end architecture and engagement logic components that I personally implemented.
-
----
 
 ## My Contribution
 
