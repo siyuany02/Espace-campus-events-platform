@@ -35,16 +35,16 @@ I was responsible for:
 - Front-end architecture and UI implementation  
 - Login validation and interactive form logic  
 - Event creation workflow and client-side validation  
-- E-Score engagement interaction design  
-- Responsive layout using Tailwind CSS  
+- Responsive layout using Tailwind CSS   
+- Local draft persistence using browser storage 
 
 ---
 
 ## Core Features
 
-- Centralized event discovery  
 - Secure campus login interface  
-- Structured event creation system  
+- Structured event creation system
+- Centralized event discovery   
 - Engagement-based E-Score mechanism  
 
 ---
@@ -67,13 +67,6 @@ Technology should function as a bridge for connection, not an additional source 
 - Tailwind CSS  
 - Vanilla JavaScript  
 - LocalStorage (client-side persistence)
-
----
-
-## Project Structure
-
-- `/frontend` – Core application pages
-- `/docs` – Screenshots and documentation
 
 ---
 
